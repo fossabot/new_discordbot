@@ -1,4 +1,6 @@
 # 제작중
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkyjkyj080115%2Fnew_discordbot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkyjkyj080115%2Fnew_discordbot?ref=badge_shield)
+
 
 ## 아이디어 추천 받습니다
 
@@ -8,3 +10,7 @@
 
 3. 봇 이름, 봇 프로필사진
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkyjkyj080115%2Fnew_discordbot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkyjkyj080115%2Fnew_discordbot?ref=badge_large)
